@@ -1,6 +1,3 @@
-# Quiz-App-in-Python
-A modern and interactive Quiz Application built with Python and Streamlit, featuring a clean UI, progress tracking, and real-time scoring.
-
 # 🧠 Streamlit Quiz App
 
 An interactive and user-friendly **Quiz Application** built using **Python** and **Streamlit**. This app presents multiple-choice questions with a clean UI, tracks progress, and displays results instantly.
@@ -45,7 +42,7 @@ An interactive and user-friendly **Quiz Application** built using **Python** and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   https://github.com/AliBariz/Quiz-App-in-Python.git
    cd quiz-app
    ```
 
