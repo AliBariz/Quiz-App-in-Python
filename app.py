@@ -163,7 +163,7 @@ def main():
 
     .stRadio > div > label:hover {
         border-color: #4F8BF9;
-        background-color: #f8fafc;
+        background-color: #0000;
     }
 
     /* Correct/incorrect answer styling */
